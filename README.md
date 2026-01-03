@@ -1,6 +1,4 @@
 # Desktop.md
-Perfect — now that I know what the ZIP actually contained, I can give you a proper README.md that matches the real purpose of your dashboard:
-
 - Next.js project  
 - Components, lib, pages, styles, types  
 - Connects Open Collective → GitHub Organization → Your domain  
@@ -169,12 +167,3 @@ OpenGrantStack is a transparent, open‑source funding and governance ecosystem.
 This dashboard unifies your financial and technical activity into one place for contributors, reviewers, and operators.
 
 ---
-
-If you want, I can also generate:
-
-- A CONTRIBUTING.md  
-- A SECURITY.md  
-- A DEPLOYMENT.md  
-- A SYSTEM ARCHITECTURE diagram  
-- A Webhook Testing Guide  
-- Or even a new version of the dashboard optimized for your current workflow
